@@ -6,3 +6,5 @@
 ## [Лабораторная 1 (NumPy)](./labs/100_Numpy_exercises.ipynb)
 
 ## [Лабораторная 2 (Pandas)](./labs/Pandas_1_hw.ipynb)
+
+## [Лабораторная 3 (Scikit-learn)](./labs/tsla_learn.ipynb)
