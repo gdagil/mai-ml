@@ -8,3 +8,5 @@
 ## [Лабораторная 2 (Pandas)](./labs/Pandas_1_hw.ipynb)
 
 ## [Лабораторная 3 (Scikit-learn)](./labs/tsla_learn.ipynb)
+
+## [Лабораторная 5 (Разметка датасета в формате COCO)](./labs/coco_dataset.ipynb)
